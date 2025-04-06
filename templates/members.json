@@ -1,0 +1,32 @@
+[{
+  "name": "Ридли",
+  "surname": "Скотт",
+  "photo": "/static/img/member1.png",
+  "jobs": ["пилот дронов", "штурман"]
+}, {
+  "name": "Энди",
+  "surname": "Уир",
+  "photo": "/static/img/member2.jpg",
+  "jobs": ["врач", "строитель"]
+}, {
+  "name": "Марк",
+  "surname": "Уотни",
+  "photo": "/static/img/member3.jpeg",
+  "jobs": ["климатолог", "киберинженер"]
+}, {
+  "name": "Венката",
+  "surname": "Капур",
+  "photo": "/static/img/member4.jpeg",
+  "jobs": ["астрогеолог", "гляциолог"]
+}, {
+  "name": "Тедди",
+  "surname": "Сандерс",
+  "photo": "/static/img/member5.jpg",
+  "jobs": ["пилот", "метеоролог"]
+}, {
+  "name": "Шон",
+  "surname": "Бин",
+  "photo": "/static/img/member6.jpg",
+  "jobs": ["геолог", "инженер-исследователь"]
+}
+]

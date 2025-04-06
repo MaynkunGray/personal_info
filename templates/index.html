@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div>
+    {% set member = hl | random %}
+    <h2>{{ member["name"] }} {{ member["surname"] }}</h2>
+    <img width="50%" src={{member["photo"]}}>
+    <h5>{{ member["jobs"] | join(", ") }}</h5>
+</div>
+
+
+{% endblock %}
